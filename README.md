@@ -1,1 +1,2 @@
 # PoloniexData
+# Bare-Logistic-Regression
