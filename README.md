@@ -9,3 +9,4 @@ Poloniex exchange webscraper that retrieves and saves candlestick cryptocurrency
 >>>>>>> 04af45363e6d154d6606141faca715e000451662
 # Bare-Logistic-Regression
 # Bare-Logistic-Regression
+# Bare-Logistic-Regression
